@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Gande
-- 👀 I’m interested in Google DevOps
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @varunpatel
+- 👀 I’m interested in cloud storage
+- 🌱 I’m currently learning google cloud platform
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
