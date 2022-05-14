@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @varunpatel
-- 👀 I’m interested in cloud storage
-- 🌱 I’m currently learning google cloud platform
+- 👋 Hi, I’m @gande varun 
+- 👀 I’m interested in google cloud storage
+- 🌱 I’m currently learning devops
 - 💞️ I’m looking to collaborate on ...
+- i have 2years of handson experiance of google cloud and devops 
+- i have been working on grace infotech pvt ltd 
+- working as google clod and gcp services 
 - 📫 How to reach me ...
 
 <!---
